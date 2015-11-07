@@ -4,6 +4,9 @@ I see that you have found your way to my boilerplate. How nice!
 ## Description
 I built it to shorten time in setting up new web projects such as small web applications, wordpress plugins etc. Hopefully this will be of value to you aswell.
 
+## Suggestions
+Add an issue or make a pull request.
+
 ## License
 I have chosen to make this project MIT-licensed. You can change anything you want when using this in your project, no worries.
 
