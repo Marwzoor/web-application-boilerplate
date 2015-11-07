@@ -1,1 +1,1 @@
-# web-application-boilerplate
+# Web Application Boilerplate

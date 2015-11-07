@@ -1,0 +1,18 @@
+{
+  "name": "web-application-boilerplate",
+  "description": "A boilerplate for general web applications",
+  "main": "index.js",
+  "authors": [
+    "Marwzoor"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Marwzoor/web-application-boilerplate",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
